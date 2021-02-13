@@ -5,8 +5,8 @@ var food;
 var database;
 
 function preload(){
-  sadDog=loadImage("Images/Dog.png");
-  happyDog=loadImage("Images/happydog.png");
+  sadDog=loadImage("Dog.png");
+  happyDog=loadImage("happydog.png");
 }
 
 function setup() {
